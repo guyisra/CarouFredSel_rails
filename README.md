@@ -20,16 +20,16 @@ Or install it yourself as:
 
 ## Usage
 
-add to manifest (watch the caps)
+add to manifest (watch the caps) application.js
 
-    //= jquery.carouFredSel.js
+    //= require jquery.carouFredSel.js
 
 in case you will use mousewheel/touchswipe/bouncing and such (choose the one that is applicable to your use)
 
-    //= jquery.mousewheel
-    //= jquery.touchSwipe
-    //= jquery.transit
-    //= jquery.ba-throttle-debounce
+    //= require jquery.mousewheel
+    //= require jquery.touchSwipe
+    //= require jquery.transit
+    //= require jquery.ba-throttle-debounce
 
 ## Contributing
 
