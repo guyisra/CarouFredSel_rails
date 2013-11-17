@@ -1,6 +1,6 @@
 # CaroufredselRails
 
-carouFredSel. Asset Pipeline. Kablam.
+carouFredSel. Asset Pipeline. Horray!
 
 see http://caroufredsel.dev7studios.com/ for more stuff...
 
@@ -24,7 +24,7 @@ add to manifest (watch the caps)
 
     //= jquery.carouFredSel.js
 
-in case you will use mousewheel/touchswipe/bouncing and such 
+in case you will use mousewheel/touchswipe/bouncing and such (choose the one that is applicable to your use)
 
     //= jquery.mousewheel
     //= jquery.touchSwipe
